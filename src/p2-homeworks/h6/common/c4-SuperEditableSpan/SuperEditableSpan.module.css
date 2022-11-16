@@ -1,0 +1,41 @@
+.spanClassName {
+  height: 12px;
+  width: 150px;
+  border-radius: 10px;
+  padding: 0 0 7px 20px;
+  display: inline-block;
+  color: teal;
+
+
+}
+.spanClassName:before {
+  content: '\270E';
+}
+
+.inputClass {
+  width: 200px;
+  margin: 0;
+  display: block;
+  font-size: 18px;
+  color: teal;
+}
+
+.six {
+  margin-top: 10px;
+  height: 40px;
+  font-size: medium;
+}
+
+.button {
+  margin-top: 10px;
+}
+
+.imgSix {
+  width: 100px;
+  height: 100px;
+  position: marker;
+}
+
+.ImgAndSpan {
+  display: inline-block;
+}

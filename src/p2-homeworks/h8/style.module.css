@@ -1,0 +1,31 @@
+.people {
+    margin-left: 60px;
+}
+.people:first-of-type {
+    margin-top: 10px;
+}
+.name {
+    display: inline-block;
+    width: 120px;
+    height: 30px;
+
+}
+.age {
+    display: inline-block;
+}
+.button {
+    width: 80px;
+    border: none;
+    background-color: teal;
+    margin: 5px;
+    color: lightcyan;
+    border-radius: 20px;
+}
+.hw8 {
+    height: 270px;
+    position: relative;
+}
+.allbutton {
+    position: absolute;
+    bottom: 0;
+}

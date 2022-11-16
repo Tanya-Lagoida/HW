@@ -1,0 +1,33 @@
+.priority {
+
+}
+
+.name {
+    color: blueviolet;
+}
+
+.affair {
+    padding: 20px 0 0 0;
+    display: grid;
+    grid-template-columns: 100px 60px 30px;
+}
+
+.button {
+    width: 60px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: -15px;
+    background-color: aqua;
+}
+.high {
+    color: aquamarine;
+}
+
+.low {
+    color: coral;
+}
+
+.middle {
+    color: gold;
+}
+

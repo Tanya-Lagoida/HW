@@ -1,0 +1,18 @@
+.error {
+    color:darkred;
+    margin: 200px auto;
+    width: 1000px;
+    /*height: 200px;*/
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    font-size: 60px;
+}
+.number {
+    align-self: center;
+    justify-self: center;
+}
+.message {
+    align-self: center;
+    justify-self: center;
+
+}
